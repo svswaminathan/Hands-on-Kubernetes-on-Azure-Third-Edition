@@ -58,7 +58,7 @@ jobs:
           # Resource Group Name
           resource-group: rg-handsonaks
           # AKS Cluster Name
-          cluster-name: handson-aks 
+          cluster-name: handsonaks 
 
       - name: Helm upgrade
         run: |
